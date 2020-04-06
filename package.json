@@ -30,6 +30,7 @@
     "aws-amplify": "^3.0.5",
     "aws-sdk": "^2.653.0",
     "browserify": "^16.5.1",
+    "browserify-fs": "^1.0.0",
     "local-web-server": "^3.0.7",
     "microphone-stream": "^5.0.1",
     "query-string": "^6.11.1"
