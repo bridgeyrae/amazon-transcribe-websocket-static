@@ -27,7 +27,7 @@
     "@aws-sdk/eventstream-marshaller": "0.1.0-preview.2",
     "@aws-sdk/util-utf8-node": "0.1.0-preview.1",
     "audiobuffer-to-wav": "^1.0.0",
-    "aws-amplify": "^3.0.5",
+    "aws-amplify": "^3.0.8",
     "aws-sdk": "^2.653.0",
     "browserify": "^16.5.1",
     "browserify-fs": "^1.0.0",

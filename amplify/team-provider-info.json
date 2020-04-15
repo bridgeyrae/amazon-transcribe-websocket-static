@@ -10,6 +10,11 @@
             "StackName": "amplify-amazontranscribewebs-dev-104450",
             "StackId": "arn:aws:cloudformation:us-west-2:501088278124:stack/amplify-amazontranscribewebs-dev-104450/d26f4170-75d2-11ea-9adb-0a977a718284",
             "AmplifyAppId": "dt6ojfyx0ptyv"
+        },
+        "categories": {
+            "auth": {
+                "amazontranscribewebsfbcab6eb": {}
+            }
         }
     }
 }

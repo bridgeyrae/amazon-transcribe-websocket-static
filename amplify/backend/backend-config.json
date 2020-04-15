@@ -1,1 +1,16 @@
-{}
+{
+	"auth": {
+		"amazontranscribewebsfbcab6eb": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"storage": {
+		"amazonTranscription": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
